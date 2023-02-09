@@ -53,7 +53,7 @@ Joining Data
 Indexing Data
 Dealing with Categorical Data
 Data Analysis
-Appropriate methods were applied in order to come up with various models and visualizations that will be used for coming up with appropriate actions to be undertaken by Microsoft movie studio before unveilling Seaborn was used to visualise the various statitistical visualization models Uploading image.png…
+Appropriate methods were applied in order to come up with various models and visualizations that will be used for coming up with appropriate actions to be undertaken by Microsoft movie studio before unveilling Seaborn was used to visualise the various statitistical visualization models
 
 
 Action

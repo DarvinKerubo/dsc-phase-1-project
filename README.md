@@ -4,11 +4,13 @@ For this project I have used the imdb_title_basics, imdb_title_ratings and bom.m
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder. My objectives are:
-What type of movie did people watch and rate and also the year that did well
+For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+My objectives are:
+What type of movie did people watch and rate and also the year that did well?
 What genre did most people watch?
 What movies produced the most gross?
 Is there a correlation between how long a movie is run and how it is rated?
+Is the box office success of a film dependent on the company that made it?
 
 
 ### Business Problem
